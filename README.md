@@ -1,6 +1,9 @@
 # Song-Display
 Display current playing song parsing from Media Transport Control
 
+For support and for a better version and more exculive codes check out my Buy Me  a Coffee page!
+https://buymeacoffee.com/holxy234
+
 ![Screenshot_2](https://user-images.githubusercontent.com/95361171/227369134-5d6a7d90-29d5-428f-9cb7-a7148c533123.png)
 
 
